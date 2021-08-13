@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741443063377",
+    "project_id": "movie-b7db4",
+    "storage_bucket": "movie-b7db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741443063377:android:6b67ff9d727bf4f2ff7270",
+        "android_client_info": {
+          "package_name": "gst.trainingcourse.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741443063377-tjuprt7de3d5i1rig35b39t7lnm8famh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKVNFl9JZBZ9fDW7d9V7zWVUNi9mP0ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741443063377-tjuprt7de3d5i1rig35b39t7lnm8famh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
